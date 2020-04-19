@@ -101,20 +101,20 @@ Once again, the internet comes to the rescue. This is a <a href="https://gist.gi
 
 
 <h3>4. A Man Called Ove by Fredrik Backman</h3>	
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 168px; padding-bottom: 0;"><a href="https://www.audible.com/pd/A-Man-Called-Ove-Audiobook/1797108263" data-iframely-url="//cdn.iframe.ly/EeNBP8I"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 168px; padding-bottom: 0;"><a href="https://www.audible.com/pd/A-Man-Called-Ove-Audiobook/1797108263" data-iframely-url="https://m.media-amazon.com/images/I/51llKf2cORL._SL500_.jpg"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 
 <h3>5. Anansi Boys by Neil Gaiman</h3>	
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 168px; padding-bottom: 0;"><a href="https://www.audible.com/pd/Anansi-Boys-Audiobook/B002V8LI0U" data-iframely-url="//cdn.iframe.ly/EeNBP8I"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 168px; padding-bottom: 0;"><a href="https://www.audible.com/pd/Anansi-Boys-Audiobook/B002V8LI0U" data-iframely-url="https://m.media-amazon.com/images/I/61vN+ECY4kL._SL500_.jpg"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 <h3>6. Veronica Mars: The Thousand-Dollar Tan Line by Rob Thomas, Jennifer Graham</h3>	
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 168px; padding-bottom: 0;"><a href="https://www.audible.com/pd/Veronica-Mars-Audiobook/B00HUAPMBA" data-iframely-url="//cdn.iframe.ly/EeNBP8I"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 168px; padding-bottom: 0;"><a href="https://www.audible.com/pd/Veronica-Mars-Audiobook/B00HUAPMBA" data-iframely-url="https://m.media-amazon.com/images/I/51+DGWGW4BL._SL500_.jpg"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 <h3>7. Hillbilly Elegy in Crisis by J.D. Vance</h3>	
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 168px; padding-bottom: 0;"><a href="https://www.audible.com/pd/Hillbilly-Elegy-Audiobook/B01EM4ZO14" data-iframely-url="//cdn.iframe.ly/EeNBP8I"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 168px; padding-bottom: 0;"><a href="https://www.audible.com/pd/Hillbilly-Elegy-Audiobook/B01EM4ZO14" data-iframely-url="https://m.media-amazon.com/images/I/51qxUzUl0ZL._SL500_.jpg"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 <h3>8. Year of Yes by Shonda Rhimes</h3>	
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 168px; padding-bottom: 0;"><a href="https://www.audible.com/pd/Year-of-Yes-Audiobook/B0163E2K22" data-iframely-url="//cdn.iframe.ly/EeNBP8I"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 168px; padding-bottom: 0;"><a href="https://www.audible.com/pd/Year-of-Yes-Audiobook/B0163E2K22" data-iframely-url="https://m.media-amazon.com/images/I/51OtRnSa0gL._SL500_.jpg"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 ---
 <div class="breaker"></div><a id="abandoned"></a>
