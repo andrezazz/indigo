@@ -24,16 +24,20 @@ permalink: reading-list-2019-update
 <div class="breaker"></div><a id="read"></a>
 <h2 class="title">Books & Long-form Reads</h2>
 
-<h3>1. The Big Picture by Ben Fritz</h3>	
+<h3>1. The Big Picture by Ben Fritz</h3>
+Despite having had an opening day seat to almost every Marvel movie released since 2008, I did not put together how fundamentally it changed movie-making until I read this book. The ethics of the source material are questionable (the leaked Sony emails), and the moments when the author uses private emails to make a point generally feel icky. However, the business of making movies has changed from talent-led to franchise-led and the book walks through a very well laid case for how this change happened and which studios benefited from it. 
 <iframe type="text/html" width="250" height="418" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B073XBSMVY&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_Mz7MEbCAS1QE0&hideBuy=true" ></iframe>
 
-<h3>2. Catch and Kill by Ronan Farrow</h3>	
+<h3>2. Catch and Kill by Ronan Farrow</h3>
+The Time's Up and #MeToo movements felt like big bangs of news announcing another male celebrity being outed as a predator. What got lost in these moments was the depth and breadth of panicked months and years as the women struggled with the decision to come out and name their perpetrators. Ronan details all the detective work, the months and years of back and forth, the media machine and the fear that kept these men in power and spilled over at times into intimidation and feigned ignorance. Powerful, sad and hopeful.
 <iframe type="text/html" width="250" height="418" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B07TD413RV&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_Ys7MEbTMEJ3RT&hideBuy=true" ></iframe>
 
-<h3>3. Hit Refresh by Satya Nadella</h3>	
+<h3>3. Hit Refresh by Satya Nadella</h3>
+In 2007, when I decided to get my first MacBook Pro, I was making the choice to go with the innovative company that took risks, and leaving behind the bully that cared only about selling expensive disks with bad software. 13 years later, it feels like Microsoft is the innovator, having created a series of interconnected online apps that all work together seamlessly. As a Microsoft user at work, I continue to be impressed with the culture change Nadella brought to Microsoft - this book introduces the man and his story. I liked reading about his amazement at having been selected as a CEO despite having a personality he did not associate with a Gates or Ballmer-type of leader, and his humbling at being called out for some out-of-touch comments he made regarding promotion opportunities for women. His approach to dropping the litigious attitude at Microsoft towards its customers, dissolving the cut-throat up or out culture internally and embracing true product innovation have all stayed with me now over a year after reading the book. Of course, it is hard to tell what is true of the internal cultural change, but as a Microsoft user, I have seen first-hand the improvement of the products coming out of Microsoft and credit the change to Nadella.
 <iframe type="text/html" width="250" height="418" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B01HOT5SQA&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_9A7MEbN9RH2PC&hideBuy=true" ></iframe>
 
-<h3>4. Just Mercy by Bryan Stevenson</h3>	
+<h3>4. Just Mercy by Bryan Stevenson</h3>
+Michael B. Jordan and Jamie Foxx bring to life just one particular storyline within this expansive book that covers many more stories of Bryan Stevenson and his Equal Justice Initiative. I was waiting for this in the movie and the moment never came, but this book is Bryan's lifelong journey trying to live his idea of 'just mercy', of the type of mercy that comes with justice, which is the true opposite of poverty. While the big arc is the story of Walter McMillian, I found the smaller anecdotes - cavity searches at prisons, humiliation, racism, threats, or simply running out of money or time just as powerful, all of them battling Bryan's quest to balance the terms of engagement that put people of color at a very distinct disadvantage within the penal system.
 <iframe type="text/html" width="250" height="418" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B00JYWVYLY&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_Ht7MEbD4MSPV7&hideBuy=true" ></iframe>
 
 <h3>5. When Breath Becomes Air by Paul Kalanithi</h3>	
