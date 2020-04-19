@@ -1,5 +1,5 @@
 ---
-title: "2017 Reading List"
+title: ":books: 2017 Reading List"
 layout: post
 tag: books
 img: indigo/indigo.png
@@ -7,7 +7,6 @@ projects: true
 author: artiannaswamy
 summary: "List of books I'm reading in 2017"
 permalink: reading-list-2017
-jemoji: '<img class="emoji" title=":books:" alt=":books:" src="https://assets.github.com/images/icons/emoji/unicode/1f4da.png" height="20" width="20" align="absmiddle">'
 ---
 
 <h2 class="title">Lessons Learned from the 2016 Reading List Project</h2>
