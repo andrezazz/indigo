@@ -1,5 +1,5 @@
 ---
-title: "2018 Reading List Recap/Update"
+title: ":books: 2018 Reading List Recap/Update"
 layout: post
 tag: books
 img: indigo/indigo.png
@@ -8,7 +8,6 @@ draft: true
 author: artiannaswamy
 summary: "Update on 2018 Reading List"
 permalink: reading-list-2018-update
-jemoji: '<img class="emoji" title=":books:" alt=":books:" src="https://assets.github.com/images/icons/emoji/unicode/1f4da.png" height="20" width="20" align="absmiddle">'
 ---
 
 <h2 class="title">Previous reading list posts</h2>
