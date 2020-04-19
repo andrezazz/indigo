@@ -4,7 +4,7 @@ layout: post
 tag: books
 img: indigo/indigo.png
 projects: true
-draft: true
+draft: false
 author: artiannaswamy
 summary: "Update on 2018 Reading List"
 permalink: reading-list-2018-update
