@@ -56,19 +56,20 @@ permalink: reading-list-2019-update
 
 <h3>11/12. Steal Like an Artist and Show your Work! by Austin Kleon</h3>	
 Since Amazon hasn't made embed codes available for Austin's books, I am linking directly to his website. I hope to buy both books in print someday.
+<a href="https://austinkleon.com/books/"><img alt="Austin Kleon Steal like an Artist" src="https://austinkleon.com/wp-content/uploads/2018/08/steal_3D_without-shadow-600x677.jpg" width="250" height="250"></a>
 
-<a href="https://austinkleon.com/books/"><img alt="Austin Kleon Steal like an Artist" src="https://austinkleon.com/wp-content/uploads/2018/08/steal_3D_without-shadow-600x677.jpg" width="250" height="20"></a>
+<h3>13. Infidel by Pornsak Pichetshote, Jose Villarrubia, Aaron Campbell</h3>	
+<a href="https://www.amazon.com/gp/product/B07GL53FK9?ref=dbs_p2d_P_R_kindle_available_T1"><img alt="Infidel Graphic Novel" src="https://d2svrcwl6l7hz1.cloudfront.net/content/B07GL53FK9/resources/0?mime=image/*" width="250" height="418"></a>
 
-
-<h3>11/12. Data Jujitsu by DJ Patil and Data Driven by DJ Patil and Hilary Mason </h3>	
+<h3>14/15. Data Jujitsu by DJ Patil and Data Driven by DJ Patil and Hilary Mason </h3>	
 <iframe type="text/html" width="250" height="418" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B008HMN5BE&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_LK7MEbAKY38NS&hideBuy=true" ></iframe>
 <iframe type="text/html" width="250" height="418" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B00SXHFTAS&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_IK7MEbZJFD19X&hideBuy=true" ></iframe>
 
-<h3>13/14. Off the Clock and 168 Hours by Laura Vanderkam</h3>	
+<h3>16/17. Off the Clock and 168 Hours by Laura Vanderkam</h3>	
 <iframe type="text/html" width="250" height="418" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B076NSZ27X&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_ex7MEb286W40X&hideBuy=true" ></iframe>
 <iframe type="text/html" width="250" height="418" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B003NX75PE&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_9y7MEb01K52MZ&hideBuy=true" ></iframe>
 
-<h3>15/16. Sprint and Make Time by Jake Knapp and John Zeratsky</h3>
+<h3>18/19. Sprint and Make Time by Jake Knapp and John Zeratsky</h3>
 <iframe type="text/html" width="250" height="418" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B078QSCM3V&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_CH7MEb6X8MY74&hideBuy=true" ></iframe>
 <iframe type="text/html" width="250" height="418" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B010MH1DAQ&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_uJ7MEbCBWRJDP&hideBuy=true" ></iframe>
 
