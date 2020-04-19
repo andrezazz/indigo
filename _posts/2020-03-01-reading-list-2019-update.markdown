@@ -56,8 +56,8 @@ permalink: reading-list-2019-update
 
 <h3>11/12. Steal Like an Artist and Show your Work! by Austin Kleon</h3>	
 Since Amazon hasn't made embed codes available for Austin's books, I am linking directly to his website. I hope to buy both books in print someday.
-<br><a href="https://austinkleon.com/steal/"><img alt="Austin Kleon Steal like an Artist" src="https://austinkleon.com/wp-content/uploads/2018/08/steal_3D_without-shadow-600x677.jpg" width="282" height="250"></a>
-<a href="https://austinkleon.com/show-your-work/"><img alt="Austin Kleon Show your work" src="https://austinkleon.com/wp-content/uploads/2018/08/show_3D_wo_shadow-1-768x861.jpg" width="282" height="250"></a>
+<br><a href="https://austinkleon.com/steal/"><img alt="Austin Kleon Steal like an Artist" src="http://www.austinkleon.com/wp-content/uploads/2011/09/3d-Steal-Like-an-Artist-NYT.jpg" width="250" height="282"></a>
+<a href="https://austinkleon.com/show-your-work/"><img alt="Austin Kleon Show your work" src="https://austinkleon.com/wp-content/uploads/2018/08/show_3D_wo_shadow-1-300x336.jpg" width="250" height="282"></a>
 
 <h3>13. Infidel by Pornsak Pichetshote, Jose Villarrubia, Aaron Campbell</h3>	
 <a href="https://www.amazon.com/gp/product/B07GL53FK9?ref=dbs_p2d_P_R_kindle_available_T1"><img alt="Infidel Graphic Novel" src="https://d2svrcwl6l7hz1.cloudfront.net/content/B07GL53FK9/resources/0?mime=image/*" width="250" height="418"></a>
