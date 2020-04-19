@@ -75,10 +75,14 @@ Once again, the internet comes to the rescue. This is a <a href="https://gist.gi
 <div class="breaker"></div><a id="read"></a>
 <h2 class="title">Books & Long-form Reads</h2>
 
-<h3>1. Neverwhere by Neil Gaiman</h3>	
+<h3>1. The Graveyard Book by Neil Gaiman</h3>	
+<iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B0011UJM48&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_.T6MEb4V76YSJ" ></iframe>
+
+<h3>2. Neverwhere by Neil Gaiman</h3>	
 <iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B000FC130E&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_yW0oCbYQDWESG" ></iframe>
 
-
+<h3>3. The Library Book by Susan Orlean</h3>	
+<iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B07CL5ZLHX&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_YU6MEb0RRVQTZ" ></iframe>
 
 
 ---
@@ -87,40 +91,38 @@ Once again, the internet comes to the rescue. This is a <a href="https://gist.gi
 <h2 class="title">Audiobooks</h2>
 
 <h3>1. Born a Crime by Trevor Noah</h3>
-<iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B01DHWACVY&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_fK1oCbXQ1VYK8" ></iframe>
 <div class="iframely-embed"><div class="iframely-responsive" style="height: 168px; padding-bottom: 0;"><a href="https://www.audible.com/pd/Born-a-Crime-Audiobook/B01IW9TQPK" data-iframely-url="//cdn.iframe.ly/7rhjA9i"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
-<h3>2. Ready Player One and Armada by Ernest Cline</h3>
+<h3>2/3. Ready Player One and Armada by Ernest Cline</h3>
 
-<iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B004J4WKUQ&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_uj2oCbSV62HZR" ></iframe>
 <div class="iframely-embed"><div class="iframely-responsive" style="height: 168px; padding-bottom: 0;"><a href="https://www.audible.com/pd/Ready-Player-One-Audiobook/B005FRGT44" data-iframely-url="//cdn.iframe.ly/dnSnxKT"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
-<iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B00TNDID0O&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_yj2oCb3M3RYRX" ></iframe>
 <div class="iframely-embed"><div class="iframely-responsive" style="height: 168px; padding-bottom: 0;"><a href="https://www.audible.com/pd/Armada-Audiobook/B00VN0Q8XY" data-iframely-url="//cdn.iframe.ly/EeNBP8I"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
-<figure>
-	<figcaption>
-		<div class="audiblelogo" align="left">
-			<img src="https://static1.squarespace.com/static/58f6060c6b8f5b633228f7e3/t/58f63b8f46c3c424ad6ad193/1492532112316/Audible_UK_Logo_Negative-Orange_No-Tag.png?format=2500w" height="100%" width="70px"/>
-		</div>
-		<div class="bookthumb" align="left">
-			<a href="https://www.audible.com/pd/Ready-Player-One-Audiobook/B005FRGT44?qid=1547397416&sr=sr_1_1&ref=a_search_c3_lProduct_1_1&pf_rd_p=e81b7c27-6880-467a-b5a7-13cef5d729fe&pf_rd_r=4KWF9HQAG51FBXBN3TGN&" target="_blank"><img src="https://m.media-amazon.com/images/I/61JTv97omSL._SL500_.jpg" height="250px" width="250px" />
-			</a>
-		</div>
-	</figcaption>
-	<audio
-		   controls
-		   src="https://samples.audible.com/bk/rand/002735/bk_rand_002735_sample.mp3">
-			Your browser does not support the <code>audio</code> element.
-	</audio>
-</figure>
+
+<h3>4. A Man Called Ove by Fredrik Backman</h3>	
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 168px; padding-bottom: 0;"><a href="https://www.audible.com/pd/A-Man-Called-Ove-Audiobook/1797108263" data-iframely-url="//cdn.iframe.ly/EeNBP8I"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 
+<h3>5. Anansi Boys by Neil Gaiman</h3>	
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 168px; padding-bottom: 0;"><a href="https://www.audible.com/pd/Anansi-Boys-Audiobook/B002V8LI0U" data-iframely-url="//cdn.iframe.ly/EeNBP8I"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
-<h3>2. Anansi Boys by Neil Gaiman</h3>	
-<div><script src="https://www.overdrive.com/media/79161/sample-embed?slug=anansi-boys"></script></div>
+<h3>6. Veronica Mars: The Thousand-Dollar Tan Line by Rob Thomas, Jennifer Graham</h3>	
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 168px; padding-bottom: 0;"><a href="https://www.audible.com/pd/Veronica-Mars-Audiobook/B00HUAPMBA" data-iframely-url="//cdn.iframe.ly/EeNBP8I"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+
+<h3>7. Hillbilly Elegy in Crisis by J.D. Vance</h3>	
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 168px; padding-bottom: 0;"><a href="https://www.audible.com/pd/Hillbilly-Elegy-Audiobook/B01EM4ZO14" data-iframely-url="//cdn.iframe.ly/EeNBP8I"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+
+<h3>8. Year of Yes by Shonda Rhimes</h3>	
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 168px; padding-bottom: 0;"><a href="https://www.audible.com/pd/Year-of-Yes-Audiobook/B0163E2K22" data-iframely-url="//cdn.iframe.ly/EeNBP8I"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 ---
 <div class="breaker"></div><a id="abandoned"></a>
 <h2 class="title">Books I abandoned</h2>
 
+<h3>1. Good Omens by Neil Gaiman and Terry Pratchett</h3>	
+<iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B0054LJGWS&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_ZY6MEbN4Q5VQJ" ></iframe>
+
+<h3>2. What If by Randall Munroe</h3>	
+I list this one here a little reluctantly as I thoroughly enjoyed every page I did read, and I am probably more than 65% of the way through the book. This is one I will definitely pick up again in the future.
+<iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B00IYUYF4A&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_TZ6MEb8T2M1Z4" ></iframe>
