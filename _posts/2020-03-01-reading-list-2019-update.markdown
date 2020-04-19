@@ -56,7 +56,8 @@ permalink: reading-list-2019-update
 
 <h3>11/12. Steal Like an Artist and Show your Work! by Austin Kleon</h3>	
 Since Amazon hasn't made embed codes available for Austin's books, I am linking directly to his website. I hope to buy both books in print someday.
-<a href="https://austinkleon.com/books/"><img alt="Qries" src="https://austinkleon.com/wp-content/uploads/2018/08/steal_3D_without-shadow-600x677.jpg" width=250" height="20"></a>
+
+<a href="https://austinkleon.com/books/"><img alt="Austin Kleon Steal like an Artist" src="https://austinkleon.com/wp-content/uploads/2018/08/steal_3D_without-shadow-600x677.jpg" width=250" height="20"></a>
 
 
 <h3>11/12. Data Jujitsu by DJ Patil and Data Driven by DJ Patil and Hilary Mason </h3>	
