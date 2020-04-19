@@ -56,9 +56,7 @@ permalink: reading-list-2019-update
 
 <h3>11/12. Steal Like an Artist and Show your Work! by Austin Kleon</h3>	
 Since Amazon hasn't made embed codes available for Austin's books, I am linking directly to his website. I hope to buy both books in print someday.
-https://austinkleon.com/books/
-https://austinkleon.com/wp-content/uploads/2018/08/steal_3D_without-shadow-600x677.jpg
-<iframe type="text/html" width="250" height="250" frameborder="0" allowfullscreen style="max-width:100%" src="https://austinkleon.com/wp-content/uploads/2018/08/steal_3D_without-shadow-600x677.jpg" ></iframe>
+![https://austinkleon.com/books/](https://austinkleon.com/wp-content/uploads/2018/08/steal_3D_without-shadow-600x677.jpg =250x250)
 
 
 <h3>11/12. Data Jujitsu by DJ Patil and Data Driven by DJ Patil and Hilary Mason </h3>	
@@ -92,9 +90,9 @@ https://austinkleon.com/wp-content/uploads/2018/08/steal_3D_without-shadow-600x6
 <iframe type="text/html" width="250" height="418" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B07HF88TL7&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_sV7MEbPVPEN23&hideBuy=true" ></iframe>
 
 <h3>2. The Secret History of Wonder Woman by Jill Lepore</h3>	
-Definitely took a turn for the very strange. Now I can't unsee it.
+Definitely took a turn for the very strange. Now I can't unsee all the weirdness.
 <iframe type="text/html" width="250" height="418" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B00K4C3QPK&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_dW7MEbBH2DBVX&hideBuy=true" ></iframe>
 
 <h3>3. Brief Interviews with Hideous Men by David Foster Wallace</h3>	
-There is no denying the raw ugliness DFW brings to the page when describing these hideous men, but meeting the one in essay #20 'On his deathbed' will hold me over for a few years until I can muster up the strength to revisit a different one.
+There is no denying the raw ugliness DFW brings to the page when describing these hideous men, but meeting the one in essay #20 'On his deathbed' will hold me over for a few years until I can muster up the strength to visit a different one.
 <iframe type="text/html" width="250" height="418" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B000SEPJ7M&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_gX7MEbTZ6WBKJ&hideBuy=true" ></iframe>
