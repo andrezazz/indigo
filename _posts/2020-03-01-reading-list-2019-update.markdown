@@ -4,7 +4,7 @@ layout: post
 tag: books
 img: indigo/indigo.png
 projects: true
-draft: true
+draft: false
 author: artiannaswamy
 summary: "Recap of 2019 Reading List"
 permalink: reading-list-2019-update
@@ -40,13 +40,16 @@ In 2007, when I decided to get my first MacBook Pro, I was making the choice to 
 Michael B. Jordan and Jamie Foxx bring to life just one particular storyline within this expansive book that covers many more stories of Bryan Stevenson and his Equal Justice Initiative. I was waiting for this in the movie and the moment never came, but this book is Bryan's lifelong journey trying to live his idea of 'just mercy', of the type of mercy that comes with justice, which is the true opposite of poverty. While the big arc is the story of Walter McMillian, I found the smaller anecdotes - cavity searches at prisons, humiliation, racism, threats, or simply running out of money or time just as powerful, all of them battling Bryan's quest to balance the terms of engagement that put people of color at a very distinct disadvantage within the penal system.
 <iframe type="text/html" width="250" height="418" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B00JYWVYLY&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_Ht7MEbD4MSPV7&hideBuy=true" ></iframe>
 
-<h3>5. When Breath Becomes Air by Paul Kalanithi</h3>	
+<h3>5. When Breath Becomes Air by Paul Kalanithi</h3>
+Diagnosed with lung cancer, Paul Kalanithi, an Indian-America neurosurgeon, captured his simultaneously hopeful and challenging journey as his work, interests, relationships were forever altered. Even knowing that Paul eventually succumbed to the cancer, the book is uplifting, surprising, heartbreaking, thought-provoking as Paul talks about every small and big change in a plain-spoken style that feels like he is with us, telling us his story from his living room.
 <iframe type="text/html" width="250" height="418" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B00XSSYR50&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_1B7MEbGS09A09&hideBuy=true" ></iframe>
 
-<h3>6. The Fifth Risk by Michael Lewis</h3>	
+<h3>6. The Fifth Risk by Michael Lewis</h3>
+The Trump presidency is still playing itself out, so it is hard to tell where the story ends, but Michael Lewis dives into the operational logistics of how it began and the impact it had on various branches of government immediately. The politics of it aside, I really enjoyed learning about where and how weather data is collected, who owns it, how its commercialization has impacts on something as crucial as hurricane warning systems etc. 
 <iframe type="text/html" width="250" height="418" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B07FFCMSCX&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_Tr7MEbHTM0E0J&hideBuy=true" ></iframe>
 
-<h3>7. Work Rules!: Insights from Inside Google That Will Transform How You Live and Lead by Laszlo Bock</h3>	
+<h3>7. Work Rules!: Insights from Inside Google That Will Transform How You Live and Lead by Laszlo Bock</h3>
+Laszlo Bock, the former SVP of People Operations at Google, writes about his journey bringing a data-driven approach with a typical Google twist to the function of HR. Subsequent controversies at Google regarding its internal culture probably brings into question some of the claimed successes in the book, but it is still a comprehensive chronicle of one of the first companies to approach HR from a data perspective.
 <iframe type="text/html" width="250" height="418" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B00MEMMVB8&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_Mu7MEbTQVGVFC&hideBuy=true" ></iframe>
 
 <h3>8. Big Magic: Creative Living Beyond Fear by Elizabeth Gilbert</h3>	
