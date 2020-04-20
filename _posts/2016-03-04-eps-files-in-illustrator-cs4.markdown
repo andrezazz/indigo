@@ -14,7 +14,7 @@ Today, I ended up having to take a 2 hour detour for something I thought would b
 
 I found this perfect swoosh graphic set on Vecteezy, and proceeded to download it - which gave me a zip file containing an EPS file and a JPEG screenshot of the graphic.
 
-<div class="center"><a href="http://www.vecteezy.com/vector-art/106447-different-type-of-business-banners"><img src="http://static.vecteezy.com/system/resources/previews/000/106/447/non_2x/different-type-of-business-banners-vector.jpg" /></a></div>
+<div class="center"><a href="//www.vecteezy.com/vector-art/106447-different-type-of-business-banners"><img src="//static.vecteezy.com/system/resources/previews/000/106/447/non_2x/different-type-of-business-banners-vector.jpg" /></a></div>
 
 Now, I own a copy of Adobe CS4 suite from a long, long time ago, and have both Illustrator and PhotoShop installed on my Mac for one-off projects that might suddenly need a fully featured photo or vector editor. I figured it would be a simple matter of double-clicking the EPS file, it would open in Illustrator, and life would be good.
 
