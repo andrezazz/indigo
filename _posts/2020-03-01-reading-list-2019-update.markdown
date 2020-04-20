@@ -63,7 +63,7 @@ Laszlo Bock, the former SVP of People Operations at Google, writes about his jou
 
 <h3>11/12. Steal Like an Artist and Show your Work! by Austin Kleon</h3>	
 Since Amazon hasn't made embed codes available for Austin's books, I am linking directly to his website. I hope to buy both books in print someday.
-<br><a href="https://austinkleon.com/steal/"><img alt="Austin Kleon Steal like an Artist" src="http://www.austinkleon.com/wp-content/uploads/2011/09/3d-Steal-Like-an-Artist-NYT.jpg" width="250" height="282"></a>
+<br><a href="https://austinkleon.com/steal/"><img alt="Austin Kleon Steal like an Artist" src="https://www.austinkleon.com/wp-content/uploads/2011/09/3d-Steal-Like-an-Artist-NYT.jpg" width="250" height="282"></a>
 <a href="https://austinkleon.com/show-your-work/"><img alt="Austin Kleon Show your work" src="https://austinkleon.com/wp-content/uploads/2018/08/show_3D_wo_shadow-1-300x336.jpg" width="250" height="282"></a>
 
 <h3>13. Infidel by Pornsak Pichetshote, Jose Villarrubia, Aaron Campbell</h3>	
