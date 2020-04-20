@@ -10,7 +10,7 @@ summary: "Part 2 of a step by step non-coder's guide to setting up a personal si
 permalink: build-a-github-blog-part-2
 ---
 
-Here's Part 1 of this post <http://artiannaswamy.com/build-a-github-blog-part-1>
+Here's Part 1 of this post <//artiannaswamy.com/build-a-github-blog-part-1>
 
 We left off at the point where your site is live, but the theme inhabiting it doesn't have your information.
 
@@ -35,7 +35,7 @@ The developer will have provided some documentation to go with the theme - read 
 
 This is the control center of your site. Updates you make here will get reflected in multiple areas of the site, not necessarily just the home page. 
 
-Let's go through some of the config settings in the [Indigo theme](http://koppl.in/indigo) I am using on my site. Here is the original _config.yml file from the source theme. Let's take these one at a time.
+Let's go through some of the config settings in the [Indigo theme](https://koppl.in/indigo) I am using on my site. Here is the original _config.yml file from the source theme. Let's take these one at a time.
 
 {% highlight raw %}
 name: John Doe
@@ -44,8 +44,8 @@ bio: 'A Man who travels the world eating noodles'
 # main text of home
 picture: 'assets/images/profile.jpg'
 
-url: http://sergiokopplin.github.io/indigo
-# your url: http://USERNAME.github.io
+url: https://sergiokopplin.github.io/indigo
+# your url: https://USERNAME.github.io
 
 permalink: /:title/
 
@@ -131,11 +131,11 @@ picture: 'assets/images/profile.jpg'
 #### URLs
 
 {% highlight raw %}
-url: http://sergiokopplin.github.io/indigo
-# your url: http://USERNAME.github.io
+url: https://sergiokopplin.github.io/indigo
+# your url: https://USERNAME.github.io
 {% endhighlight %}
 
-If you were sticking with the *yourusername.github.io* naming for your website, you'd change this URL to the github.io address. But since you have your personal domain mapped to this, you want to change this field to **http://yourdomain.com**.
+If you were sticking with the *yourusername.github.io* naming for your website, you'd change this URL to the github.io address. But since you have your personal domain mapped to this, you want to change this field to **https://yourdomain.com**.
 
 #### Google Analytics
 
@@ -162,7 +162,7 @@ Google Analytics is definitely something you want to set up now so you can keep 
 - Google will create tracking ID for you that'll look something like 'UA-########'.
 - Copy this tracking ID, return to your _config.yml and paste it in the analytics-google field.
 
-**Note**: Make sure you set up filters in the Google Analytics Admin panel to <span class="evidence">exclude your own IP address</span>. This excellent tutorial will help you through the steps: [How to exclude internal traffic from Google Analytics](http://www.cognique.co.uk/blog/exclude-internal-traffic-google-analytics/#.VuWvH8cUEdc).
+**Note**: Make sure you set up filters in the Google Analytics Admin panel to <span class="evidence">exclude your own IP address</span>. This excellent tutorial will help you through the steps: [How to exclude internal traffic from Google Analytics](https://www.cognique.co.uk/blog/exclude-internal-traffic-google-analytics/#.VuWvH8cUEdc).
 
 #### Disqus
 
@@ -287,7 +287,7 @@ permalink: /consulting/index.html
 
 ## 3. Set Custom URLs for Posts
 
-For this one, I refer you to another excellent post by Joshua Lande <http://joshualande.com/short-urls-jekyll/>. I followed this exactly, and it's worked great for me.
+For this one, I refer you to another excellent post by Joshua Lande <https://joshualande.com/short-urls-jekyll/>. I followed this exactly, and it's worked great for me.
 
 <div class="breaker"></div> <a id="hidden-drafts"></a>
 
@@ -308,7 +308,7 @@ A few pros and cons on how this works out practically:
 
 [Jekyll Feed documentation](https://github.com/jekyll/jekyll-feed) seems to suggest this is already a feature, but only if it's implemented as a _drafts folder, which you will need to run some git code on to build and serve on your desktop. 
 
-Here's how you include a drafts feature with the [Indigo theme](http://koppl.in/indigo) we are using.
+Here's how you include a drafts feature with the [Indigo theme](https://koppl.in/indigo) we are using.
 
 - At this point, hopefully you haven't published too many blog posts. 
 - Open up all the posts (not projects - you can tell by checking for projects: true or blog:true in the YAML front matter) in the _posts folder in your text editor, and 
@@ -343,7 +343,7 @@ This one's a little involved, but still not too hard. Let's look at the various 
 4. Edit the blog post page to also show the tags
 5. Add a custom header and navigation to the top
 
-The instructions on this came from this excellent post <http://erjjones.github.io/blog/Part-two-how-I-built-my-blog> by [Eric Jones](http://erjjones.github.io/). 
+The instructions on this came from this excellent post <https://erjjones.github.io/blog/Part-two-how-I-built-my-blog> by [Eric Jones](https://erjjones.github.io/). 
 
 #### Step 1. Add the ruby script in the plugins folder
 
