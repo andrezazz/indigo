@@ -28,7 +28,7 @@ But the problem was if the user had to restart the workflow for any reason. The 
 
 #### Option 2. Linking one workflow to the next using the 'Start workflow' action.
 
-I quite thought I had found the holy grail with this solution - I could even do conditional branches and fire off different workflows depending on whether particular fields had been filled. It did require me to put in an admin user ID and password into the workflow action that launches a separate workflow, and getting the configurations filled out just right took some research as well. For more information on how to configure the 'Start workflow' action, see article: [Start a Workflow using NINTEX Workflow in SharePoint 2013 Online](http://www.c-sharpcorner.com/blogs/start-a-workflow-using-nintex-workflow-in-sharepoint-2013-online)
+I quite thought I had found the holy grail with this solution - I could even do conditional branches and fire off different workflows depending on whether particular fields had been filled. It did require me to put in an admin user ID and password into the workflow action that launches a separate workflow, and getting the configurations filled out just right took some research as well. For more information on how to configure the 'Start workflow' action, see article: [Start a Workflow using NINTEX Workflow in SharePoint 2013 Online](//www.c-sharpcorner.com/blogs/start-a-workflow-using-nintex-workflow-in-sharepoint-2013-online)
 
 However, it turned out that the workflows launched correctly, and in sequence, only as long as the initial request was submitted by my account, the one with site administrator rights. When a user with lower permissions (Edit or Contribute) initiated the workflows, the first workflow kicked off without any problems, but the next linked workflow would fail and get suspended with the following error message:
 
@@ -60,9 +60,9 @@ I went down the rabbit hole researching several possible solutions, all listed b
 
 I found a series of articles on using elevated workflow permissions to remedy the issue.
 
-#3.  One of the articles, [Workflow App Permissions](http://www.stuartroberts.net/index.php/2014/11/20/workflow-app-permissions/) suggested tricking SharePoint into thinking of the workflow as an App (i.e. a functioning widget or add-in like a Document Library or a List). This was an interesting approach, and definitely worth a try, until I found...
+#3.  One of the articles, [Workflow App Permissions](//www.stuartroberts.net/index.php/2014/11/20/workflow-app-permissions/) suggested tricking SharePoint into thinking of the workflow as an App (i.e. a functioning widget or add-in like a Document Library or a List). This was an interesting approach, and definitely worth a try, until I found...
 
-#4. An article on using an App Step, a Nintex feature that can leverage higher permissions than the rest of the workflow, per this article [We use Nintex online with SharePoint 2013...](https://community.nintex.com/message/35520), and this Nintex O365 documentation article for [App Step](http://help.nintex.com/en-US/O365/O365WorkFlow/Workflow%20Actions%20-%20STD/App%20Step.htm). 
+#4. An article on using an App Step, a Nintex feature that can leverage higher permissions than the rest of the workflow, per this article [We use Nintex online with SharePoint 2013...](https://community.nintex.com/message/35520), and this Nintex O365 documentation article for [App Step](//help.nintex.com/en-US/O365/O365WorkFlow/Workflow%20Actions%20-%20STD/App%20Step.htm). 
 
 I added an App Step to my workflow and when I clicked into the action to configure it, was greeted with this message. 
 
@@ -144,7 +144,7 @@ It's completely amazing that Nintex allows RegEx parsing. That's powerful stuff,
 This reference number was always preceded by a hashtag '#' symbol, which made things easier, but it wasn't always in a constant position and could be varying lengths, so I couldn't use the **substring** action available in Nintex. It was however the first set of consecutive numbers in that string, which is a useful piece of information for leveraging RegEx.
 
 To start with, the Nintex documentation on using Regular Expressions was pretty helpful: 
-[Nintex Actions > Regular Expressions](http://help.nintex.com/en-US/O365/O365WorkFlow/Workflow%20Actions%20-%20STD/Regular%20Expression.htm)
+[Nintex Actions > Regular Expressions](//help.nintex.com/en-US/O365/O365WorkFlow/Workflow%20Actions%20-%20STD/Regular%20Expression.htm)
 
 The goal was, for example, to parse the number 543 from the string "#543 Test List Item with additional descriptors and possible more numbers 93940". 
 
