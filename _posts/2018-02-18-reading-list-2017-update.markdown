@@ -11,8 +11,8 @@ permalink: reading-list-2017-update
 
 <h2 class="title">Previous reading list posts</h2>
 
-- <a href="http://artiannaswamy.com/reading-list-2016" target="_blank">2016 Reading List</a>
-- <a href="http://artiannaswamy.com/reading-list-2017" target="_blank">2017 Reading List</a>
+- <a href="//artiannaswamy.com/reading-list-2016" target="_blank">2016 Reading List</a>
+- <a href="//artiannaswamy.com/reading-list-2017" target="_blank">2017 Reading List</a>
 
 ## Index
 - [Reading technology](#newtech)
@@ -112,7 +112,7 @@ Slightly demoralizing to read how separate of a life Franklin and Eleanor Roosev
 
 <h3>2. Sapiens: A Brief History of Humankind by Yuval Noah Harari (2011)</h3>
 <iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B00ICN066A&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_VU5IAbQ3AJ9N2" ></iframe>
-The previous book I read and liked in this genre was the <a href="http://a.co/9cc9CJr" target="_blank">The Naked Ape: A Zoologist's Study of the Human Animal</a> by Desmond Morris. The tone in 'Naked Ape' is lighter and the book is more fast-paced than Sapiens, so I may need to adjust my expectations of Sapiens before getting back to it.
+The previous book I read and liked in this genre was the <a href="//a.co/9cc9CJr" target="_blank">The Naked Ape: A Zoologist's Study of the Human Animal</a> by Desmond Morris. The tone in 'Naked Ape' is lighter and the book is more fast-paced than Sapiens, so I may need to adjust my expectations of Sapiens before getting back to it.
 
 <h3>3. Open by Andre Agassi (2009)</h3>
 <iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B003062GEE&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_3U5IAb51B0AW9" ></iframe>
