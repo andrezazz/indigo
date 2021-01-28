@@ -8,7 +8,7 @@ description: A blog about my journeys in data science and tech.
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/mathboi.JPEG
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -56,8 +56,8 @@ authors:
     name: André Zazzera
     bio: Reformed math guy figuring out this data science stuff.
     external-image: false
-    picture: assets/images/profile.jpg
-    twitter: https://twitter.com/andrezazzera
+    picture: assets/images/mathboi.JPEG
+    twitter: andrezazzera
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
