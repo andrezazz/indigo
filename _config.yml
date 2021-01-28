@@ -1,9 +1,9 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: André Zazzera
+bio: Reformed math guy figuring out this data science stuff.
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: A blog about my journeys in data science and tech.
 
 # if it's an external image, update below for true
 # better with square images
@@ -16,8 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://sergiokopplin.github.io/indigo
-# your url: https://USERNAME.github.io
+url: https://andrezazz.github.io
 
 permalink: /:title/
 
@@ -34,37 +33,31 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-# instagram: myinstagram
+# facebook: myfacebook
+twitter: https://twitter.com/andrezazzera
+instagram: https://instagram.com/youngzazzera
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: https://www.linkedin.com/in/andr%C3%A9-zazzera-061a0b183/
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: https://github.com/andrezazz
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: alz9cb@virginia.edu
 
 authors:
-  johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+  andre:
+    name: André Zazzera
+    bio: Reformed math guy figuring out this data science stuff.
     external-image: false
     picture: assets/images/profile.jpg
-    twitter: johndoe
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
-    external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
+    twitter: https://twitter.com/andrezazzera
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
