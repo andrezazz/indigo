@@ -4,6 +4,7 @@ group :jekyll_plugins do
     gem 'github-pages'
     gem 'jekyll-admin'
     gem 'jekyll-seo-tag'
+    gem 'rdiscount'
     gem 'jekyll-gist'
     gem 'jekyll-feed'
     gem 'jemoji'
