@@ -4,36 +4,22 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>I am currently a Master's student in the School of Data Science at University of Virginia (UVA). My present capstone research focus is in predictive methods for approximating numerical solutions to differential equations, particularly with decision tree regressors. My coursework this semester is in big data analytics, deep learning, and text analytics.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>I graduated in 2020 with a BA in mathematics and history from UVA, and a minor in Mandarin Chinese. Before that, I grew up in Virginia Beach, VA after moving there from France, where I was born. It was during high school that I fell in love with math, and in university that I learned how to apply my passion for math to new fields.</p>
+
+<p>Aside from work, I love thinking about and telling stories (especially through Dungeons & Dragons), reading history, and exploring whatever location I happen to find myself in (currently Charlottesville, VA).</p>
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
+	<li>Python </li>
+	<li>R</li>
 	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
+	<li>SQL - MySQL - MongoDB</li>
+	<li>SageMath</li>
+	<li>LaTeX</li>
+	<li>SCRUM</li>
 	<li>TDD e Continuous Integration</li>
 </ul>
 
