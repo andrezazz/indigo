@@ -4,7 +4,9 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>I am currently a Master's student in the School of Data Science at University of Virginia (UVA). My present capstone research focus is in predictive methods for approximating numerical solutions to differential equations, particularly with decision tree regressors. My coursework this semester is in big data analytics, deep learning, and text analytics.</p>
+# About Me
+
+<p>I just finished my master's degree in the School of Data Science at University of Virginia (UVA). My present research focus is in predictive methods for approximating numerical solutions to differential equations, particularly with decision tree regressors. My coursework recently has included Bayesian machine learning, data mining, big data analytics, deep learning, and text analytics.</p>
 
 <p>I graduated in 2020 with a BA in mathematics and history from UVA, and a minor in Mandarin Chinese. Before that, I grew up in Virginia Beach, VA after moving there from France, where I was born. It was during high school that I fell in love with math, and in university that I learned how to apply my passion for math to new fields.</p>
 
@@ -26,7 +28,7 @@ layout: page
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
+	<li><a href="andrezazz.github.io/dust-in-the-machine">My Capstone Portfolio</a></li>
+	<li><a href="https://github.com/kehoffman3/astrodust">The astrodust Python package</a></li>
 	<li><a href="https://github.com/">Dolor Lorem</a></li>
 </ul>
