@@ -20,7 +20,7 @@ layout: page
 	<li>SageMath</li>
 	<li>LaTeX</li>
 	<li>SCRUM</li>
-	<li>TDD e Continuous Integration</li>
+	
 </ul>
 
 <h2>Projects</h2>

@@ -7,7 +7,7 @@ tag:
 - random forest
 - decision tree
 #image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
-#headerImage: true
+#headerImage: false
 projects: true
 hidden: false # count this post in blog pagination
 description: "A captsone research project for my master's degree"
